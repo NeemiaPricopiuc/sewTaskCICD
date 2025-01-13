@@ -1,0 +1,26 @@
+name: Validation of cicd_example
+on: [push]
+
+jobs:
+  run-all:
+    runs-on: windows-latest
+    name: Run MSBuild
+    
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup dotnet
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '6.0.x'
+      - name: Install dependencies
+        run: nuget restore cicd_example.sln
+      - name: Build
+        run: dotnet build
+      - name: Test with the dotnet CLI
+        run: dotnet test
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: cicd_example_binary  # Artifact name
+          path: ./cicd_example/bin/Debug/net8.0/cicd_example.exe   # Files or folder to upload
+          
