@@ -1,0 +1,14 @@
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\bin\Debug\net8.0\cicd_example.exe
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\bin\Debug\net8.0\cicd_example.deps.json
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\bin\Debug\net8.0\cicd_example.runtimeconfig.json
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\bin\Debug\net8.0\cicd_example.dll
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\bin\Debug\net8.0\cicd_example.pdb
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\obj\Debug\net8.0\cicd_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\obj\Debug\net8.0\cicd_example.AssemblyInfoInputs.cache
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\obj\Debug\net8.0\cicd_example.AssemblyInfo.cs
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\obj\Debug\net8.0\cicd_example.csproj.CoreCompileInputs.cache
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\obj\Debug\net8.0\cicd_example.dll
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\obj\Debug\net8.0\refint\cicd_example.dll
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\obj\Debug\net8.0\cicd_example.pdb
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\obj\Debug\net8.0\cicd_example.genruntimeconfig.cache
+C:\Users\prico\Desktop\schule\5AHIT\SEW\cicd_example\cicd_example\obj\Debug\net8.0\ref\cicd_example.dll
